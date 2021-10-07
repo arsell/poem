@@ -1,0 +1,3 @@
+Haiku about git
+Save changes and sanity
+Refridgerator
